@@ -57,6 +57,7 @@ class Book():
         print("The book is destroyed")
 
 
+
 book = Book("Python", "Azad", 200)
 print(book)
 print(len(book))
