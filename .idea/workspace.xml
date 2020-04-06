@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="999a21a5-a5a7-4feb-a8f8-45012dacc7d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-basics/src/py-level-one/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-basics/src/py-level-one/lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-basics/src/py-level-two/oop2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-basics/src/py-level-two/oop2.py" afterDir="false" />
-    </list>
+    <list default="true" id="999a21a5-a5a7-4feb-a8f8-45012dacc7d5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python-basics/src/py-level-two/oop_project_card_game.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1734">
               <caret line="102" column="30" selection-start-line="102" selection-start-column="30" selection-end-line="102" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python-basics/src/py-level-two/errors_exceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -74,6 +79,8 @@
         <option value="$PROJECT_DIR$/python-basics/src/py-level-two/oop2.py" />
         <option value="$PROJECT_DIR$/python-basics/src/py-level-one/lists.py" />
         <option value="$PROJECT_DIR$/python-basics/src/py-level-two/oop_project_card_game.py" />
+        <option value="$PROJECT_DIR$/python-basics/src/py-level-two/sample_txt_file.txt" />
+        <option value="$PROJECT_DIR$/python-basics/src/py-level-two/errors_exceptions.py" />
       </list>
     </option>
   </component>
@@ -146,7 +153,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.oop_project_card_game">
+  <component name="RunManager" selected="Python.errors_exceptions">
+    <configuration name="errors_exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-basics/src/py-level-two" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-basics/src/py-level-two/errors_exceptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,28 +190,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-basics/src/py-level-one/lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="oop1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-basics/src/py-level-two" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-basics/src/py-level-two/oop1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.errors_exceptions" />
         <item itemvalue="Python.oop_project_card_game" />
         <item itemvalue="Python.lists" />
         <item itemvalue="Python tests.pytest in lists.py" />
         <item itemvalue="Python.oop2" />
-        <item itemvalue="Python.oop1" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +280,7 @@
       <updated>1586023734582</updated>
       <workItem from="1586023738766" duration="2928000" />
       <workItem from="1586066096590" duration="21577000" />
-      <workItem from="1586148474420" duration="600000" />
+      <workItem from="1586148474420" duration="2026000" />
     </task>
     <servers />
   </component>
@@ -286,7 +293,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25105000" />
+    <option name="totallyTimeSpent" value="26531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-8" width="1317" height="784" extended-state="6" />
@@ -312,7 +319,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info anchor="right" id="Run" internal_type="SLIDING" order="5" type="SLIDING" weight="0.5871122" />
+      <window_info active="true" anchor="right" id="Run" internal_type="SLIDING" order="5" type="SLIDING" visible="true" weight="0.47494033" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +327,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_learning$oop_project_card_game.coverage" NAME="oop_project_card_game Coverage Results" MODIFIED="1586104244192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-basics/src/py-level-two" />
+    <SUITE FILE_PATH="coverage/python_learning$errors_exceptions.coverage" NAME="errors_exceptions Coverage Results" MODIFIED="1586156582046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-basics/src/py-level-two" />
     <SUITE FILE_PATH="coverage/python_learning$oop2.coverage" NAME="oop2 Coverage Results" MODIFIED="1586072678609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-basics/src/py-level-two" />
     <SUITE FILE_PATH="coverage/python_learning$lists.coverage" NAME="lists Coverage Results" MODIFIED="1586079478810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-basics/src/py-level-one" />
     <SUITE FILE_PATH="coverage/python_learning$oop1.coverage" NAME="oop1 Coverage Results" MODIFIED="1586027164584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-basics/src/py-level-two" />
@@ -359,6 +367,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1734">
           <caret line="102" column="30" selection-start-line="102" selection-start-column="30" selection-end-line="102" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-basics/src/py-level-two/sample_txt_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-basics/src/py-level-two/sample_txt_file">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-basics/src/py-level-two/errors_exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
         </state>
       </provider>
     </entry>
